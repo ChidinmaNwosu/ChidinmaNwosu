@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChidinmaNwosu
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning about Frontend Engineering on AltSchoolAfrica.
+- 🌱 I’m currently learning about Frontend Engineering on AltSchool Africa.
 - 💞️ I’m looking to collaborate on other Software Engineers on this platform.
 - 📫 How to reach me chidinmaifynwosu@gmail.com
 
